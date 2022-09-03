@@ -11,6 +11,10 @@ Secara luas, Komputer dapat didefinisikan sebagai suatu peralatan elektronik yan
 
 Laptop pertama kali dirancang oleh seseorang yang bernama Adam Osbornen yang gemar terhadap teknologi. Ia seseorang berkebangsaan United Kingdom, dan lahir di Inggris pada tanggal 6 Maret 1939. nah, ide Osborne untuk membuat laptop ini muncul dari seseorang yang bernama Alan Kay. Kay mempunyai konsep tentang sebuah komputer jinjing, yang nantinya menjadi cikal bakal dari laptop yang sekarang kita pakai. Dari ide Kay, Osborne kemudian membuat sebuah portable computer pertama yang diberi nama Osborne 1. Osborne bekerjasama dengan perusahaan perangkat keras yang juga ahli dalam mendesain papan sirkuit prosesor. Pada saat itu, tentunya Osborne 1 ini sangat berbeda jauh dengan komputer jinjing yang banyak kita kenal saat ini. Osborne 1 ini memiliki berat lebih dari 10 kilogram, dan dengan ukuran layar hanya 5 inci. Laptop ini juga sudah dilengkapi dengan baterai kecil, floppy disk, memori, dan keyboard.
 
+Sekarang Laptop, komputer jinjing, atau komputer pangku adalah komputer pribadi yang berukuran relatif kecil dan ringan. Beratnya berkisar dari 1–6 kg, tergantung pada ukuran, bahan, dan spesifikasi laptop tersebut. Sumber daya laptop berasal dari baterai atau adaptor A/C yang dapat digunakan untuk mengisi ulang baterai dan menyalakan laptop itu sendiri. Baterai laptop pada umumnya dapat bertahan kurang lebih 2 hingga 6 jam sebelum akhirnya habis. Habisnya baterai bergantung dari cara pemakaian, spesifikasi, dan ukuran baterai. Laptop terkadang disebut juga dengan komputer notebook atau notebook saja.
+
+Sebagai komputer pribadi, laptop memiliki fungsi yang sama dengan komputer desktop (desktop computers) pada umumnya. Komponen yang terdapat di dalamnya sama persis dengan komponen pada desktop, hanya saja ukurannya diperkecil, dijadikan lebih ringan, lebih tidak panas, dan lebih hemat daya.
+
 # C. Sistem Operasi
 <img src="sis.jpg" >
 
